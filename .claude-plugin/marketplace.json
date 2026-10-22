@@ -8,8 +8,8 @@
     {
       "name": "context-canopy",
       "source": {
-        "source": "github",
-        "repo": "jonw09/claude-context-canopy"
+        "source": "url",
+        "url": "https://github.com/jonw09/claude-context-canopy.git"
       },
       "description": "Plan limits, session usage by model, and a live agent tree with context health, above the prompt."
     }
