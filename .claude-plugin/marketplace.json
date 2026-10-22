@@ -1,0 +1,17 @@
+{
+  "name": "jonw09",
+  "owner": {
+    "name": "jonw09"
+  },
+  "description": "Plugins for Claude Code by jonw09.",
+  "plugins": [
+    {
+      "name": "context-canopy",
+      "source": {
+        "source": "github",
+        "repo": "jonw09/claude-context-canopy"
+      },
+      "description": "Plan limits, session usage by model, and a live agent tree with context health, above the prompt."
+    }
+  ]
+}
