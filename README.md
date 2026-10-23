@@ -27,13 +27,11 @@ claude plugin install context-canopy --marketplace jonw09/claude-plugins
 
 Each plugin's page covers what it shows, its settings and its commands.
 
+If you already installed a plugin straight from its own repo, uninstall that copy first, or you'll have it twice.
+
 ## Updates
 
 New plugins and releases appear here on their own. To fetch them, run `claude plugin marketplace update jonw09`, then `claude plugin update <plugin>` and restart Claude Code.
-
-## Adding a plugin
-
-Each plugin has its own repo. To list one here, add an entry to `.claude-plugin/marketplace.json` that points at that repo, on a branch with a pull request into `main`.
 
 ## Licence
 
